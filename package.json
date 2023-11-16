@@ -1,0 +1,14 @@
+{
+  "name": "ncs_car_test",
+  "version": "1.0.0",
+  "description": "Car Test program",
+  "main": "index.js",
+  "scripts": {
+    "test": "CarUnitTest"
+  },
+  "keywords": [
+    "NCS"
+  ],
+  "author": "Heartiromer Lopez",
+  "license": "ISC"
+}
